@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RemindMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_list_textView">You have no reminders</string>
+    <string name="empty_list_add_reminder_button">Add Reminder</string>
+    <string name="reminder_title_prompt">Enter in a title</string>
+    <string name="reminder_description_prompt">Enter in a description</string>
+    <string name="dialog_decision_message">Configure</string>
+    <string name="dialog_decision_date_button">Date</string>
+    <string name="dialog_decision_time_button">Time</string>
+    <string name="menu_add">Add Reminder</string>
+    <string name="delete_reminder">Delete Reminder</string>
+</resources>
